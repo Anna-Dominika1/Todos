@@ -1,0 +1,18 @@
+{
+  "name": "todos-test",
+  "version": "1.0.0",
+  "description": "Todos test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nanoid": "^3.3.4",
+    "nodemon": "^2.0.18",
+    "volleyball": "^1.5.1",
+    "yup": "^0.32.11"
+  }
+}
